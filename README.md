@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Inessa)
 - 👀 I’m interested in web-developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me: inessa.shuvalova@mail.ru
 
 <!---
